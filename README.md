@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**Csakacsaba/Csakacsaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 About me 🎶⚽
+  - 👋 Hello there! My name is Csaba Csáka, and I'm a Full Stack Developer based in Miercurea-Ciuc, Harghita, Romania.
+  - Programming isn't just work; it's my way to unwind! 🔥 I love delving into complex challenges, making sure every little detail is just right. Meeting deadlines is super important to me. Messy code bothers me, so I'm always striving for perfection in everything I code. 💯
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🖥️🎨 Language Palette
+  ![](https://img.shields.io/badge/PHP-grey?logo=php)
+  ![](https://img.shields.io/badge/Laravel-grey?logo=laravel)
+  ![](https://img.shields.io/badge/Javascript-grey?logo=javascript)
+  ![](https://img.shields.io/badge/HTML5-grey?logo=HTML5)
+  ![](https://img.shields.io/badge/CSS3-grey?logo=CSS3)
+  ![](https://img.shields.io/badge/MySql-grey?logo=mysql)
+  ![](https://img.shields.io/badge/PhpStorm-grey)
+  ![](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
+  [![](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
