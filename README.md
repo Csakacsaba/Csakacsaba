@@ -13,4 +13,8 @@
   ![](https://img.shields.io/badge/MySql-grey?logo=mysql)
   ![](https://img.shields.io/badge/PhpStorm-grey)
   ![](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
+
+# 🤜🤛 Reach Me
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:csakacsaba2@gmail.com)
+
   
