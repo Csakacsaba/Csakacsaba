@@ -16,5 +16,7 @@
 
 # 🤜🤛 Reach Me
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:csakacsaba2@gmail.com)
+  [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](YOUR_WHATSAPP_LINK_HERE)
+
 
   
