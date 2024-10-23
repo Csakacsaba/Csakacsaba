@@ -16,14 +16,8 @@
     Currently involved in A/B testing and front-end development using JavaScript and CSS.
 
 # 🖥️🎨 Language Palette
-  ![](https://img.shields.io/badge/PHP-grey?logo=php)  
-  ![](https://img.shields.io/badge/Laravel-grey?logo=laravel)  
-  ![](https://img.shields.io/badge/Javascript-grey?logo=javascript)  
-  ![](https://img.shields.io/badge/HTML5-grey?logo=HTML5)  
-  ![](https://img.shields.io/badge/CSS3-grey?logo=CSS3)  
-  ![](https://img.shields.io/badge/MySql-grey?logo=mysql)  
-  ![](https://img.shields.io/badge/PhpStorm-grey)  
-  ![](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)
+  ![](https://img.shields.io/badge/PHP-grey?logo=php)  ![](https://img.shields.io/badge/Laravel-grey?logo=laravel)  ![](https://img.shields.io/badge/Javascript-grey?logo=javascript)  ![](https://img.shields.io/badge/HTML5-grey?logo=HTML5)  ![](https://img.shields.io/badge/CSS3-grey?logo=CSS3)  ![](https://img.shields.io/badge/MySql-grey?logo=mysql)  
+  ![](https://img.shields.io/badge/PhpStorm-grey)  ![](https://img.shields.io/badge/VSCode-grey?logo=visualstudiocode)![](https://img.shields.io/badge/Python-grey?logo=python)  ![](https://img.shields.io/badge/PyCharm-grey?logo=pycharm)  ![](https://img.shields.io/badge/Java-grey?logo=java)
 
 # 🤜🤛 Reach Me
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:csakacsaba2@gmail.com)  
