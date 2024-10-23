@@ -28,3 +28,5 @@
 # 🤜🤛 Reach Me
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:csakacsaba2@gmail.com)  
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/csaba-cs%C3%A1ka-40027029b/)
+  [![Upwork Badge](https://img.shields.io/badge/Upwork-darkgreen?style=flat-square&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b159574ba04a093a)
+
